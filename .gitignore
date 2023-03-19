@@ -1,8 +1,6 @@
 /UserSettings
 /Logs
 
-
-
 # Created by https://www.gitignore.io/api/unity,jetbrains
 # Edit at https://www.gitignore.io/?templates=unity,jetbrains
 
@@ -153,6 +151,8 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+!/UnityPackages/l1_HomeWork 1.unitypackage
+!/UnityPackages/result HW1.unitypackage
 *.symbols.zip
 
 # Crashlytics generated file
